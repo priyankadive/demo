@@ -1,1 +1,1 @@
-Test anchore
+Test anchore with demo app
